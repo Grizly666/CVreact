@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CVreact/static/css/main.b7120012.chunk.css",
+    "main.js": "/CVreact/static/js/main.004558ff.chunk.js",
+    "main.js.map": "/CVreact/static/js/main.004558ff.chunk.js.map",
+    "runtime-main.js": "/CVreact/static/js/runtime-main.86023b52.js",
+    "runtime-main.js.map": "/CVreact/static/js/runtime-main.86023b52.js.map",
+    "static/js/2.107a3371.chunk.js": "/CVreact/static/js/2.107a3371.chunk.js",
+    "static/js/2.107a3371.chunk.js.map": "/CVreact/static/js/2.107a3371.chunk.js.map",
+    "index.html": "/CVreact/index.html",
+    "static/css/main.b7120012.chunk.css.map": "/CVreact/static/css/main.b7120012.chunk.css.map",
+    "static/js/2.107a3371.chunk.js.LICENSE.txt": "/CVreact/static/js/2.107a3371.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86023b52.js",
+    "static/js/2.107a3371.chunk.js",
+    "static/css/main.b7120012.chunk.css",
+    "static/js/main.004558ff.chunk.js"
+  ]
+}
