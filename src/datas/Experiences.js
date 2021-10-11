@@ -4,19 +4,19 @@ export const dataExperiences = [
       title: "Développeur concepteur d'application",
       date: "2021 - Présent",
       location: "Boulogne-sur-mer",
-      text: `Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam facilis at iure culpa inventore consequatur.`,
+      text: `Simplon #cda`,
       missions: [
         {
           id: 1,
-          title: "mission 1",
+          title: "Application multicouches",
         },
         {
           id: 2,
-          title: "mission 1",
+          title: "interagir avec des API",
         },
         {
           id: 3,
-          title: "mission 1",
+          title: "Creation d'un projet MERN",
         },
       ],
     },
@@ -29,16 +29,13 @@ export const dataExperiences = [
       missions: [
         {
           id: 1,
-          title: "mission 1",
+          title: "Site E-commerce",
         },
         {
           id: 2,
-          title: "mission 1",
+          title: "application d'un gestionnaire d'un parc automobile",
         },
-        {
-          id: 3,
-          title: "mission 1",
-        },
+      
       ],
     },
     

@@ -22,7 +22,7 @@ function User() {
             <p className="user__info"> 
                <EmailIcon /> <a href="mailto:antoine.marie.dev@gmail.com">antoine.marie.dev@gmail.com</a></p>
             <p className="user__info"><CalendarTodayIcon />Date de naissance: 28 Septembre 1993</p>
-            <p className="user__info"><EmailIcon />llieu de naissance: Boulogne-sur-mer</p>
+            <p className="user__info"><RoomIcon />llieu de naissance: Boulogne-sur-mer</p>
         </div>
     </div>
     )

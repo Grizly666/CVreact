@@ -1,6 +1,6 @@
 import React from "react"
 import { useState } from "react"
-import WbSunnyOutlinedIcon from '@mui/icons-material/WbSunnyOutlined';
+import WbSunnyOutlinedIcon from '@mui/icons-material/WbSunnyOutlined'
 import Brightness2OutlinedIcon from '@mui/icons-material/Brightness2Outlined'
 
 const DarkMode = () => {
